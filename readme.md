@@ -27,4 +27,12 @@ tuning prusa mini (1d13dfe): this was obviously a different printer and not the 
 
 tuning prusa (36d738c): got through with all the pressure advance which took a while and then moved onto flow tuning and found i actually needed 120% rather than 100%, here's what i said in the thread too: "got it narrowed down and i think i got a good value and imthen i dipped into flow tuning a little and found that i actuallt needed 120% not 100%"
 
+backing up ( 64874a25 ): got all important files off of my rpi and backed up everything like octoprint, etc. had lots of projects running on it so had to make sure those were safe. used sftp!!
+
+installing mainsail 1 ( cc28772 ): basically researching the different things like fluid and how they all work and then i finally flashed the new firmware onto it; also looked into things like kamp and all that
+
+installing mainsail 2 ( c0affa71 ): installed mainsail, configured all the different things, got stuff like my camera and all that on, got my klipper conf loaded and made sure everything was updated and ready to go
+
+ps: some of these commits r messed up bc the threads were made before rules changed to GitHub and stuff so ya 
+
 writing readme!!: this current hour!! basically went through each hour so far and described what i did as you can see above but i am writing this quite a while after soo it was a little difficult and i think this file is starting to top 7800 characters!!!!!!!!! < that last question mark got me to 7800 and now this is 7862
